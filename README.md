@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Diogenes091106
 - 👀 I'm interested in learning programming
-- 🌱 I’m currently learning websites with HTML, CSS and Javascript languages 
+- 🌱 I’m currently learning websites with HTML, CSS and JS languages 
 - 👍 I’m looking to collaborate with my learning 
 - 📫 How to reach me diogenes140906@gmail.com
 - 💕 I am committed to my girlfriend
