@@ -1,15 +1,23 @@
 - 👋 Hi, I’m @Diogenes091106
 - 👀 I'm interested in learning programming
 - 🌱 I’m currently learning websites with HTML, CSS and JS languages 
-- 👍 I’m looking to collaborate with my learning 
-- 📫 How to reach me diogenes140906@gmail.com
 - 💕 I am committed to my girlfriend
 - 🇧🇷 I am Brazilian/Brasileiro né man?
 - 💡 I'm new to programming
-- 🦈 I intend to be a professional in Frontend and Backend
-- 🐈‍⬛ I love cats
 
-<!---
-Diogenes091106/Diogenes091106 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:diogenes140906@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</a> 
+
+  ![Snake animation](https://github.com/Diógenes091106/Diógenes091106/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
