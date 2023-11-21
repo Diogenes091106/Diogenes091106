@@ -16,8 +16,3 @@
 <div> 
   <a href = "mailto:diogenes140906@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </a> 
-
-  ![Snake animation](https://github.com/Diógenes091106/Diógenes091106/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
