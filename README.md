@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Diogenes091106
-- 🌱 I’m currently learning websites with HTML, CSS and JS languages 
+- 🌱 I’m currently learning websites with HTML, CSS, JS, PYTHON languages 
 - 💕 I am committed to my girlfriend
   
-![Diogenes091106's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogenes091106&show_icons=true&theme=radical)
+![Diogenes091106](https://github-readme-stats.vercel.app/api?username=Diogenes091106&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Diogenes091106](https://github-readme-streak-stats.herokuapp.com/?user=Diogenes091106&theme=dark&hide_border=false)<br/>
+![Diogenes091106](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogenes091106&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ##
  
