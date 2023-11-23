@@ -21,3 +21,7 @@
 </div><br/>
 
 Apaixonado por tecnologia, e com a mentalidade de mudar e melhorar sempre.
+
+##
+
+[![Diogenes091106](https://visitcount.itsvg.in/api?id=Diogenes091106&label=Profile%20Views&color=11&icon=3&pretty=true)](https://visitcount.itsvg.in)
