@@ -1,7 +1,7 @@
 -Hi,my name is Diogenes. I'am a FrontEnd and BackEnd progammer.👋
 - I'm in love whith my girlfriend❤️
+- Currently learning Python👌
 
-## Let's Connect ⚡
 Reach me out:  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_diogenes07_) 
 <br><br>
 
