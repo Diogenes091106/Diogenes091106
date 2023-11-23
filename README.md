@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Diogenes091106
-- 🌱 I’m currently learning websites with HTML, CSS, JS, PYTHON languages 
-- 💕 I am committed to my girlfriend
+-Hi,my name is Diogenes. I'am a FrontEnd and BackEnd progammer.👋
+- I'm in love whith my girlfriend❤️
   
-![Diogenes091106](https://github-readme-stats.vercel.app/api?username=Diogenes091106&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![Diogenes091106](https://github-readme-streak-stats.herokuapp.com/?user=Diogenes091106&theme=dark&hide_border=false)<br/>
-![Diogenes091106](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogenes091106&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogenes091106&theme=dark&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+</a>
+
+<a href="https://github.com/Gurupreet" title="ilustração do mapeamento do perfil">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Diogenes091106&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 
 ##
  
