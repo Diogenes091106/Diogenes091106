@@ -12,7 +12,7 @@ GITHUB STATS🎖️
 </a>
 
 <a href="https://github.com/Gurupreet" title="ilustração do mapeamento do perfil">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Diogenes091106&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Diogenes091106&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
 </a>
 
 <a> ![Diogenes091106](https://github-readme-streak-stats.herokuapp.com/?user=tilakjain123&theme=dark&hide_border=false) </a>
