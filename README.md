@@ -1,11 +1,13 @@
 -Hi,my name is Diogenes. I'am a FrontEnd and BackEnd progammer.👋
 - I'm in love whith my girlfriend❤️
 
-##
+## Let's Connect ⚡
+Reach me out:  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_diogenes07_) 
+<br><br>
 
-GITHUB STATS🎖️
 
-##
+
+## GitHub Stats 📊
   
 <a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogenes091106&theme=dark&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
@@ -18,7 +20,7 @@ GITHUB STATS🎖️
 <a> ![Diogenes091106](https://github-readme-streak-stats.herokuapp.com/?user=tilakjain123&theme=dark&hide_border=false) </a>
 ##
  
-## Tecnologias que eu uso no dias de trabalho.
+## Tecnologias que eu uso no dias de trabalho. 💻
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
