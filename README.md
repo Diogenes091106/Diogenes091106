@@ -1,5 +1,11 @@
 -Hi,my name is Diogenes. I'am a FrontEnd and BackEnd progammer.👋
 - I'm in love whith my girlfriend❤️
+
+##
+
+GITHUB STATS🎖️
+
+##
   
 <a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogenes091106&theme=dark&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
@@ -7,7 +13,9 @@
 
 <a href="https://github.com/Gurupreet" title="ilustração do mapeamento do perfil">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Diogenes091106&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
 
+<a> ![Diogenes091106](https://github-readme-streak-stats.herokuapp.com/?user=tilakjain123&theme=dark&hide_border=false) </a>
 ##
  
 ## Tecnologias que eu uso no dias de trabalho.
