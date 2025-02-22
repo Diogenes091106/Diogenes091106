@@ -12,13 +12,6 @@ Reach me out:  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.sv
 <a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogenes091106&theme=dark&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
-
-<a href="https://github.com/Gurupreet" title="ilustração do mapeamento do perfil">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Diogenes091106&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-</a>
-
-<a> ![Diogenes091106](https://github-readme-streak-stats.herokuapp.com/?user=tilakjain123&theme=dark&hide_border=false) </a>
-##
  
 ## Tecnologias que eu uso no dias de trabalho. 💻
 
@@ -32,7 +25,3 @@ Reach me out:  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.sv
 </div><br/>
 
 Apaixonado por tecnologia, e com a mentalidade de mudar e melhorar sempre.
-
-##
-
-[![Diogenes091106](https://visitcount.itsvg.in/api?id=Diogenes091106&label=Profile%20Views&color=11&icon=3&pretty=true)](https://visitcount.itsvg.in)
